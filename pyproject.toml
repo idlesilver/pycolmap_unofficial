@@ -3,12 +3,12 @@ requires = ["setuptools"]
 build-backend = "setuptools.build_meta"
 
 [project]
-name = "pycolmap"
+name = "pycolmap_unofficial"
 version = "0.0.1"
-dependencies = [
-    "numpy",
-    "scipy",
-]
+# dependencies = [
+#     "numpy",
+#     "scipy",
+# ]
 authors = [
     {name = "Ricardo Martin-Brualla"},
 ]
